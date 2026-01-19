@@ -17,7 +17,7 @@ As programmers, it is important to understand how and why our online application
 ## General information
 __Number of tasks:__ 6<br/>
 __Completed:__ 6<br/>
-__Passed:__ TBA<br/>
+__Passed:__ 6<br/>
 
 ## Tasks overview
 #### 0. OSI model
