@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Pings a provided IP address or displays correct usage if no positional parameter was given
+ping -c 5 "$1" 2>/dev/null || echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
