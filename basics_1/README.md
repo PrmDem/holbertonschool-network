@@ -12,7 +12,7 @@ Continuation of our foray into the basics of networking.<br/>
 ## General information
 __Number of tasks:__ 3<br/>
 __Completed:__ 3<br/>
-__Passed:__ TBA<br/>
+__Passed:__ 3<br/>
 
 ## Tasks overview
 #### 0. Change your home IP
